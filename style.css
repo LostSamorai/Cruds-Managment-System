@@ -1,0 +1,11 @@
+
+body{
+    font-family:'Segoe UI light';
+}
+.btn{
+    width: 100px;
+    
+}
+.btn-login{
+    width: 50%;
+}
